@@ -12,9 +12,9 @@
 
 #include "push_swap.h"
 
-int lstsize (t_stack *lst)
+int	lstsize(t_stack *lst)
 {
-    int	i;
+	int	i;
 
 	i = 0;
 	while (lst)
